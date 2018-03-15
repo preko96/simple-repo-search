@@ -1,0 +1,13 @@
+img {
+	width: 32px;
+}
+
+
+img:before {
+	background: rgba(0,255,255, 0.5);
+  	transition: all .3s linear;
+}
+
+input:focus {
+    outline:none;
+}

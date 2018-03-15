@@ -1,0 +1,13 @@
+.note {
+	transition: background-color .25s ease-in-out;
+}
+
+.edge {
+	box-shadow: 4px 0px 4px -4px rgba( 0, 0, 0, 0.8 );
+	z-index: 1;
+}
+
+.custom-grow {
+	transform: scale(1.05);
+	transition: transform .25s ease-in-out;
+}
